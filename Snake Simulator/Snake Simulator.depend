@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1536205123 source:d:\code\programming project\snake simulator\game.cpp
+	<graphics.h>
+	<conio.h>
+	<graphics.h>
+	<stdlib.h>
+	<time.h>
+
+1412399778 d:\code\programming project\snake simulator\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
